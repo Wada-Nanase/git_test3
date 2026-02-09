@@ -1,4 +1,23 @@
+package com.example;
 import java.util.Scanner;
+/**　Java doc
+ * Pricecalculator は、ユーザーから商品名・個数・値段を入力させ、
+ * 合計金額を計算して表示するコンソールアプリケーションです。
+ *
+ * <p>特徴:
+ * <ul>
+ *   <li>入力値のバリデーションを実施</li>
+ *   <li>不正な値が入力された場合は再入力を促す</li>
+ *   <li>商品名、個数、値段、合計金額を表示</li>
+ * </ul>
+ *
+ * 使用例:
+ * <pre>
+ *   java Pricecalculator
+ * </pre>
+ *
+ * @author
+ */
 
 public class Pricecalculator {
 
